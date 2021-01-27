@@ -1,3 +1,12 @@
+## 20210124
+* 修复 frp 无法启动的问题
+
+## 20210121
+* 更新到 19.07.5
+* Kernel 5.10.2
+* 新增 jerrykuku/luci-app-vssr
+* 新增 xiaorouji/openwrt-passwall
+
 ## 20201102
 * 常规更新
 
@@ -78,5 +87,3 @@
 ## 20200226
 * 添加 frpc 和 npc
 * 支持 Full Cone NAT
-
-2
